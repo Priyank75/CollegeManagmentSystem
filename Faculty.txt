@@ -1,0 +1,20 @@
+Name :- Ankur Dwivedi
+Age :- 34
+Branch :- Computer Science and Engineering
+Course :- OOP
+Teaching Experince :- 10
+Post  :- Professor
+
+Name :- Savan Vaghani
+Age :- 25
+Branch :- Electronics and Communication
+Course :- Digital Logic
+Teaching Experince :- 6
+Post  :- Professor
+
+Name :- Utsav THakkar
+Age :- 50
+Branch :- Mechanical Engineering
+Course :- Fluid Mechanics
+Teaching Experince :- 15
+Post  :- Head-Professor

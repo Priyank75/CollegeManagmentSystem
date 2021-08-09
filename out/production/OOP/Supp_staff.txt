@@ -1,0 +1,21 @@
+Name :- Ayush Vasava
+Age :- 35
+work  :- Electric
+days worked :- 7
+Salary 4200
+Method of Payment :-Cheque
+
+Name :- Heet mistry
+Age :- 24
+work  :- plumbing
+days worked :- 20
+Salary 9000
+Method of Payment :-Cash
+
+Name :- Sonali Ravat
+Age :- 40
+work  :- cleaning
+days worked :- 15
+Salary 4500
+Method of Payment :-Cheque
+
